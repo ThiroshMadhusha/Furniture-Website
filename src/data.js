@@ -30,7 +30,6 @@ import TestimonialImg from './assets/img/testimonial.png';
 import Avatar1Img from './assets/img/avatar-1.png';
 import Avatar2Img from './assets/img/avatar-2.png';
 import Avatar3Img from './assets/img/avatar-3.png';
-import Avatar4Img from './assets/img/avatar-4.png';
 
 export const navigation = [
   {
